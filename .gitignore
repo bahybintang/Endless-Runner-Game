@@ -4,6 +4,12 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Streets
+Assets/Urban_Props
+Assets/MS
+Assets/Urban_Props.meta
+Assets/Streets.meta
+Assets/MS.meta
 
 # Visual Studio cache directory
 .vs/
